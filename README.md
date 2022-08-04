@@ -1,4 +1,4 @@
-# UFO_Sitings
+# UFO_Sightings
 
 CWRU Data Analytics Module Eleven Challenge
 
