@@ -9,7 +9,7 @@ The project involved using Javascript to build dynamic webpages using bootstrap 
 
 ### Summary
 
-The effort involved loading a js data object with ~ 1000 sets of UFO siting information which included date, city, state, country, duration, shape and comments for each potential UFO observation.   This data was displayed in a page and table formatted using bootstrap and a listener was added so that users can filter the display based upon input of criteria for date, state, shape or country.   Upon input, the table updates dynamically using object methods to filter the data and rebuild the table. 
+The effort involved loading a js data object with ~ 1000 sets of UFO siting information which included date, city, state, country, duration, shape and comments for each potential UFO observation.   This data was displayed in a page and table formatted using bootstrap.  A listener was added so that users can filter the display based upon input of criteria for date, state, shape or country.   Upon input, the table updates dynamically using object methods to filter the data and rebuild the table. 
 
 ## UFO Sightings 
 
